@@ -231,11 +231,11 @@ export const data = {
       },
       {
         question: 'What is the tech stack for the A80 Workbench?',
-        answer: 'Our tech stack is an integrated set of modern 3rd party tools, Altitude80 technologies and Foundation models . <a href="https://blog.strategicmachines.ai/blog/legacy/2023-04-22-logic/document">An explainer of how GitHub uses Codespaces</a> is available on our blog.',
+        answer: 'Our tech stack is an integrated set of modern 3rd party tools, Altitude80 technologies and Foundation models . <a href="/">A description of the technology stack</a> is available on our blog.',
       },
       {
         question: 'What additional charges apply for the Altitude80 Workbench?',
-        answer: 'Based on the configuration requirements of your modernization project, additional fees may apply. Full details on pricing are <a href="/">available in our documentation. Please contact your sales rep for more information.',
+        answer: 'Based on the configuration requirements of your modernization project, additional fees may apply. Full details on pricing are <a href="/">available in our documentation</a>. Please contact your sales rep for more information.',
       },
       {
         question: 'Tell me more about the AI Agent',

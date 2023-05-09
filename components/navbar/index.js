@@ -1,12 +1,12 @@
 import React from 'react';
 import Link from 'next/link';
-import { BsGithub } from 'react-icons/bs';
+import { BsChatLeftDots } from 'react-icons/bs';
 
 const index = ({ headerData }) => {
   return (
     <div className="flex py-4 px-8 bg-gh-primary">
       <div className="flex items-center gap-4">
-        <BsGithub size={32} color="white" />
+        <BsChatLeftDots size={32} color="white" />
         <form className="relative w-[272px]">
           <input
             className="gh-search-input"

@@ -13,7 +13,7 @@ const FooterBottom = ({ links }) => {
     <div className="bg-gh-overlay">
       <div className="max-w-7xl mx-auto flex items-center justify-between py-6 px-4">
         <div className="flex items-center gap-4 text-xs">
-          <p className="text-gh-secondary">© 2024 GitHub, Inc.</p>
+          <p className="text-gh-secondary">© 2023 Altitude80, Inc.</p>
           {links?.map((link, index) => (
             <Link key={index} href={link.href}>
               <a className="text-gh-secondary hover:text-gh-link hover:underline">
