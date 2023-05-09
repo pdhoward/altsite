@@ -227,33 +227,27 @@ export const data = {
     faqs: [
       {
         question: 'How do I get access to the A80 Workbench?',
-        answer:
-          'We are providing early access to a select set of clients. Please contact us for additional details on the early access program. For those in the early access access will remain and we’ll share updates on what’s coming in the near future.',
+        answer: 'We are providing early access to a select set of clients. Please contact us for additional details on the early access program. For those in the early access access will remain and we’ll share updates on what’s coming in the near future.',
       },
       {
         question: 'What is the tech stack for the A80 Workbench?',
-        answer:
-          'Our tech stack is an integrated set of modern 3rd party tools, Altitude80 technologies and Foundation models . <a href="https://blog.strategicmachines.ai/blog/legacy/2023-04-22-logic/document">An explainer of how GitHub uses Codespaces</a> is available on our blog.',
+        answer: 'Our tech stack is an integrated set of modern 3rd party tools, Altitude80 technologies and Foundation models . <a href="https://blog.strategicmachines.ai/blog/legacy/2023-04-22-logic/document">An explainer of how GitHub uses Codespaces</a> is available on our blog.',
       },
       {
         question: 'What additional charges apply for the Altitude80 Workbench?',
-        answer:
-          'Based on the configuration requirements of your modernization project, additional fees may apply. Full details on pricing are <a href="/">available in our documentation. Please contact your sales rep for more information.',
+        answer: 'Based on the configuration requirements of your modernization project, additional fees may apply. Full details on pricing are <a href="/">available in our documentation. Please contact your sales rep for more information.',
       },
       {
         question: 'Tell me more about the AI Agent',
-        answer:
-          'The Altitude80 Workbench can work in conjunction with a range of language models, as demonstrated by our Lab tests. However, we have extensively tested the AI workflows using OpenAI, which requires customization by our dev teams to incorporate our process.',
+        answer: 'The Altitude80 Workbench can work in conjunction with a range of language models, as demonstrated by our Lab tests. However, we have extensively tested the AI workflows using OpenAI, which requires customization by our dev teams to incorporate our process.',
       },
       {
         question: 'When can I use the Workbench on my repos?',
-        answer:
-          'Once the Workbench is enabled for you and your teams, access to your repos will be immediate',
+        answer: 'Once the Workbench is enabled for you and your teams, access to your repos will be immediate',
       },
       {
         question: 'Can I run a A80 Workbench locally?',
-        answer:
-          'Yes. Contact us to discuss deployment options and configuration requirements for your installation.',
+        answer: 'Yes. Contact us to discuss deployment options and configuration requirements for your installation.',
       },
     ],
   },
