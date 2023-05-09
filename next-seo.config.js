@@ -1,23 +1,23 @@
 export default {
-  title: 'Github Codespaces Clone with Next.js and TailwindCSS',
-  description: 'Github Codespaces Homepage Clone with Next.js and TailwindCSS',
+  title: 'Altitude80 WorkBench Site',
+  description: 'Overview of the modernization workbench',
   twitter: {
     cardType: 'summary_large_image',
   },
   openGraph: {
-    title: 'Github Codespaces Clone with Next.js and TailwindCSS',
+    title: 'Altitude80 Workbench',
     description:
-      'Github Codespaces Homepage Clone with Next.js and TailwindCSS',
+      'Overview of the modernization workbench',
     type: 'website',
     locale: 'en_IN',
-    url: 'codespaces-clone.mridul.tech',
-    site_name: 'Github Codespaces Clone',
+    url: 'altitude80.com',
+    site_name: 'Workbench',
     images: [
       {
-        url: 'https://github.githubassets.com/images/modules/site/social-cards/codespaces-ga.png',
+        url: 'https://res.cloudinary.com/stratmachine/image/upload/v1668106028/logos/logo_hucw5y.png',
         width: 300,
         height: 300,
-        alt: 'Github Codespaces Clone',
+        alt: 'A80',
       },
     ],
   },
